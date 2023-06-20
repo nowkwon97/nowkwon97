@@ -1,1 +1,1 @@
-# 풀스택 개발자를 꿈꾸는 이재권입니다.
+<a href="https://opgc.me/#/users/nowkwon97" target="_blank"><img src="https://api.opgc.me/githubs/users/nowkwon97/tag/?theme=basic" /></a>
