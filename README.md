@@ -19,5 +19,5 @@
 
 ## 📞 Contact 📞
 <div style="display:flex; flex-direction:row;">
-    <p>##nowkwon97@gmail.com</p>
+    <p>nowkwon97@gmail.com</p>
 </div><br>
