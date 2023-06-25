@@ -29,4 +29,5 @@
     <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"> 
     <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
     <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongoDB&logoColor=white">
+    <img src="https://img.shields.io/badge/TypeScript-#3178C6?style=flat-square&logo=TypeScript&logoColor=white">
 </div><br>
